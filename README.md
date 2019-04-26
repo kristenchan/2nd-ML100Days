@@ -7,3 +7,4 @@
 +   [<a href="https://github.com/kristenchan/2nd-ML100Days/blob/master/homework/Day_006_HW.ipynb">D6</a>] EDA 之 Outlier 及處理
 +   [<a href="https://github.com/kristenchan/2nd-ML100Days/blob/master/homework/Day_007_HW.ipynb">D7</a>] 常用的數值取代：中位數與分位數連續數值標準化
 +   [<a href="https://github.com/kristenchan/2nd-ML100Days/blob/master/homework/Day_008_HW.ipynb">D8</a>] DataFrame operationData frame merge/常用的 DataFrame 操作
++   [<a href="https://github.com/kristenchan/2nd-ML100Days/blob/master/homework/Day_009_HW.ipynb">D9</a>] 程式實作 EDA: correlation/相關係數簡介
