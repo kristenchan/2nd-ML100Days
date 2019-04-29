@@ -11,3 +11,4 @@
 +   [<a href="https://github.com/kristenchan/2nd-ML100Days/blob/master/homework/Day_010_HW.ipynb">D010</a>] EDA from Correlation
 +   [<a href="https://github.com/kristenchan/2nd-ML100Days/blob/master/homework/Day_011_HW.ipynb">D011</a>] EDA 不同數值範圍間的特徵如何檢視 / 繪圖與樣式Kernel Density Estimation (KDE)
 +   [<a href="https://github.com/kristenchan/2nd-ML100Days/blob/master/homework/Day_012_HW.ipynb">D012</a>] EDA 把連續型變數離散化
++   [<a href="https://github.com/kristenchan/2nd-ML100Days/blob/master/homework/Day_013_HW.ipynb">D013</a>] 程式實作 把連續型變數離散化
