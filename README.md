@@ -13,3 +13,4 @@
 +   [<a href="https://github.com/kristenchan/2nd-ML100Days/blob/master/homework/Day_012_HW.ipynb">D012</a>] EDA 把連續型變數離散化
 +   [<a href="https://github.com/kristenchan/2nd-ML100Days/blob/master/homework/Day_013_HW.ipynb">D013</a>] 程式實作 把連續型變數離散化
 +   [<a href="https://github.com/kristenchan/2nd-ML100Days/blob/master/homework/Day_014_HW.ipynb">D014</a>] Subplots
++   [<a href="https://github.com/kristenchan/2nd-ML100Days/blob/master/homework/Day_015_HW.ipynb">D015</a>] Heatmap / Grid-plot
